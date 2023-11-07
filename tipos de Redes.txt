@@ -1,0 +1,5 @@
+Tipos de redes:
+LAN: es una red de muy poca extencion (area local) que conecta pocos dispotivos
+WAN: es una red con mucha extencion que puede conectar dispositivos en todo el mundo
+MAN: es una red con una extencion grande que puede conectar dispositivos en una ciudad o pais
+PAM: es una red de area personal...
